@@ -1,7 +1,7 @@
 # Git e GitHub - Exercicios   
 
 ## Dupla:
-- Thiago Dias: [GitHub](https://github.com/<usuario>)
+- Thiago Dias: [GitHub](https://github.com/RushiamX)
 - Nome do integrante 2: [GitHub](https://github.com/<usuario>)
 
 ### Confingurações do Git
@@ -11,4 +11,4 @@
   > Lista de configurações do Git
 - git config --global user.name "Nome do usuário"
   > Configura o nome do usuário
-- git config --global user.email "SeuRealizando
+- git config --global user.email "SeuRealizando"
